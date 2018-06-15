@@ -45,6 +45,7 @@ classes
 .classpath
 .project
 .idea
+soap-lagacy
 
 src/site/markdown/*.*
 .DS_Store

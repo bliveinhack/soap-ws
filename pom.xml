@@ -26,7 +26,6 @@
 
     <modules>
         <module>soap-common</module>
-        <module>soap-builder</module>
         <module>soap-client</module>
         <module>soap-server</module>
         <module>soap-it</module>
